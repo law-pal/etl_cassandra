@@ -1,4 +1,4 @@
-# Project 2: Data Modeling with Apache Cassandra
+# Data Modeling with Apache Cassandra
 
 This project creates an Apache Cassandra database for a music app, *Sparkify*. I created an ETL pipeline that transfers data from a set of CSV files within a directory to create a streamlined CSV file **event_datafile_new.csv** which is used to populate the denormalized Cassandra tables to model and insert data into the NoSQL database.
 
